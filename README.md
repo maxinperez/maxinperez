@@ -4,11 +4,16 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmk4M2dndGxveThpcnJvNWVqZ3A5bmc2b282emEwMWpmazY2ZmM4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11fcrB0d09xDDG/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+I am a computer science student at UNRC, currently in the last year of my intermediate degree.
+As a computational analyst, I enjoy designing secure and efficient systems that solve real-world problems and drive meaningful change.
+
+* **I’m exploring data-driven applications at the moment, while also gaining experience in working with relational databases.**
+- 🌱 I’m currently learning/interested ...
   - Java
-  - React js
+  - Python
+  - PostgreSQL
+  - Cybersecurity
+
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
