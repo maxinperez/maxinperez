@@ -13,7 +13,7 @@ As a computational analyst, I enjoy designing secure and efficient systems that 
   - Python
   - PostgreSQL
   - Cybersecurity
--
+
 - I’m looking forward to collaborate on open source projects.<br>
 - In addition to reading 📖 personal development books, I occasionally enjoy fantasy. I also love exercising,🎵 listening to music, and 🌴exploring the outdoors.
 - 📫 You are welcome to reach out to me via email.: <a href="maxi2017p@gmail.com">maxi2017p@gmail.com</a>
