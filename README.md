@@ -2,10 +2,17 @@
 
 <img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/IpeYSEZshTefe/200.webp?cid=ecf05e47tfwixk6dlj1mr7buhfqcmma36emum4jh4fel3nzy&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
-<p>
-  <img src="./media/about.gif" width="50px" style="vertical-align: middle;">
-  &nbsp;<strong>About me</strong>
-</p>
+<table>
+  <tr>
+    <td width="30">
+      <img src="./media/about.gif" width="50px" alt="About me gif">
+    </td>
+    <td>
+      <h2>About me</h2>
+    </td>
+  </tr>
+</table>
+
 
 
 I am a computer science student at UNRC, currently in the last year of my intermediate degree.
