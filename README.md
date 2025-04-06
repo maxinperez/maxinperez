@@ -7,12 +7,12 @@
 I am a computer science student at UNRC, currently in the last year of my intermediate degree.
 As a computational analyst, I enjoy designing secure and efficient systems that solve real-world problems and drive meaningful change.
 
-* **I’m exploring data-driven applications at the moment, while also gaining experience in working with relational databases.**
+* **I’m exploring contable data-driven applications at the moment, while also gaining experience in working with relational databases by my own.**
 - 🌱 I’m currently learning/interested ...
   - Java
   - Python
   - PostgreSQL
-  - Cybersecurity
+  - Ruby
 
 - I’m looking forward to collaborate on open source projects.<br>
 - In addition to reading 📖 personal development books, I occasionally enjoy fantasy. I also love exercising,🎵 listening to music, and 🌴exploring the outdoors.
