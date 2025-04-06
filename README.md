@@ -1,4 +1,4 @@
-<p align="center">Hi <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/hi.gif" width="35px">, I'm Maximo!</p>
+<p align="center">Hi there, I'm Maximo!</p>
 
 <img align="right" width=250px alt="Unicorn" src="https://media4.giphy.com/media/IpeYSEZshTefe/200.webp?cid=ecf05e47tfwixk6dlj1mr7buhfqcmma36emum4jh4fel3nzy&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
