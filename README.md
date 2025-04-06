@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="30">
-      <img src="./media/about.gif" width="50px" alt="About me gif">
+      <img src="./media/aboutn.gif" width="50px" alt="About me gif">
     </td>
     <td>
       <h2>About me</h2>
