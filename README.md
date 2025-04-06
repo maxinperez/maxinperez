@@ -3,7 +3,7 @@
 <img align="right" width=220px alt="Unicorn" src="https://media4.giphy.com/media/IpeYSEZshTefe/200.webp?cid=ecf05e47tfwixk6dlj1mr7buhfqcmma36emum4jh4fel3nzy&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
 <p>
-  <img src="./media/aboutn.gif" width="50px" style="vertical-align: middle;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZjbm9nbXp3Z2l3a2ZyY204ZGg5eDE5dmZuaWVnbmdlY2Nidm1tbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDtCGLCXBAgow/giphy.gif" width="50px" style="vertical-align: middle;">
   &nbsp;<strong>About me</strong>
 </p>
 
