@@ -15,7 +15,7 @@ As a computational analyst, I enjoy designing secure and efficient systems that 
 - 🌱 I’m currently learning/interested ...
   - Java
   - Python
-
+  - Relational databases
 
 <br>
 - In addition to reading 📖 personal development books, I occasionally enjoy fantasy. I also love exercising,🎵 listening to music, and 🌴exploring the outdoors.
