@@ -16,4 +16,4 @@ As a computational analyst, I enjoy designing secure and efficient systems that 
   - Relational databases
 
 <br>
-- 📫 You are welcome to reach out to me via email.: <a href="maxi2017p@gmail.com">maxi2017p@gmail.com</a>
+📫 You are welcome to reach out to me via email.: <a href="maxi2017p@gmail.com">maxi2017p@gmail.com</a>
