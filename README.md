@@ -12,7 +12,7 @@ As a computational analyst, I enjoy designing secure and efficient systems that 
 * **I’m exploring contable data-driven applications at the moment, while also gaining experience in working with relational databases by my own.**
 - I’m currently learning/interested ...
   - Java
-  - Python
+  - JavaScript
   - Relational databases
 
 <br>
