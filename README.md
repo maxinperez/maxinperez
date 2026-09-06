@@ -13,7 +13,7 @@ As a computational analyst, I enjoy designing secure and efficient systems that 
 - I’m currently learning/interested ...
   - Java
   - JavaScript
-  - Relational databases
+  - Relational and NoSQL databases
 
 <br>
 📫 You are welcome to reach out to me via email.: <a href="maxi2017p@gmail.com">maxi2017p@gmail.com</a>
