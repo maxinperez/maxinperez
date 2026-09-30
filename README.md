@@ -9,7 +9,7 @@
 I am a computer science student at UNRC, currently in the last year of my intermediate degree.
 As a computational analyst, I enjoy designing secure and efficient systems that solve real-world problems and drive meaningful change.
 
-* **I’m exploring contable data-driven applications at the moment, while also gaining experience in working with relational databases by my own.**
+* **Help companies save money and time, as their tech partner :).**
 - I’m currently learning/interested ...
   - Java
   - JavaScript
