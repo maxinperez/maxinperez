@@ -6,7 +6,7 @@
 </p>
 
 
-I am a computer science student at UNRC, currently in the last year of my intermediate degree.
+I am a computer science student at UNRC.
 As a computational analyst, I enjoy designing secure and efficient systems that solve real-world problems and drive meaningful change.
 
 * **Help companies save money and time, as their tech partner :).**
